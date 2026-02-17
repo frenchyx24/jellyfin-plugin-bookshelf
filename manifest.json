@@ -1,0 +1,20 @@
+[
+  {
+    "guid": "9c4e63f1-031b-4f25-988b-4f7d78a8b53e",
+    "name": "Bookshelf",
+    "description": "Supports several different metadata providers and options for organizing your collection.",
+    "overview": "Manage your books",
+    "owner": "jellyfin",
+    "category": "Books",
+    "versions": [
+      {
+        "version": "13.0.0.0",
+        "changelog": "- Jellyfin 10.11 support (#130) @crobibero",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/jellyfin/jellyfin-plugin-bookshelf/releases/download/v13/bookshelf_13.0.0.0.zip",
+        "checksum": "",
+        "timestamp": "2024-01-01T00:00:00Z"
+      }
+    ]
+  }
+]
